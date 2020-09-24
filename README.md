@@ -52,6 +52,15 @@ Wondering what happens when you find Waldo? You will have to find Waldo yourself
         
         python3 run_where_is_waldo.py
         
+1. To integrate into your Pythonic pipeline:
+
+        from src.window_manager import WindowManager
+        
+        app = WindowManager(image_path, bounding_box_json_file_path, debug)
+        app.run() 
+
+
+        
 ## PyGraphicsGui Capabilities
 
 1. Click on the image with the left mouse button - if you didn't click on Waldo, 
