@@ -80,8 +80,8 @@ This project was designed to be an as-lean-as-possible skeleton for a Pythonic d
 At the same time, it is meant to be easily expanded upon, without thinking to much on technicalities such as 
 "where should I put this?" or "How do I write tests?" etc.
 
-My goal going forward is for this project to include an introduction to ModernGL, computer graphics in general, 
-Tkinter, and the Python behind-the-scenes that allow for this integration to work.
+To support the onboarding to this complex world, I have prepared an intro talk to computer graphics - 
+the slides can be found here, video coming soon :)
 
 In the meanwhile, I hope the many links below will help you develop your new skills :)
 
@@ -90,6 +90,8 @@ The structure of this project is as follows:
 ### The Main Folder
 
 * This README
+
+* Talk slides - with some more visual background on computer graphics and fun memes ;)
 
 * Requirements file for easy install (on Ubuntu you also need to install Tkinter)
 
